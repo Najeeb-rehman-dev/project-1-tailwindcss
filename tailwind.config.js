@@ -10,7 +10,7 @@ module.exports = {
         lg: "20px",
         xl: "24px",
         "2xl": "28px",
-        "3xl": "36",
+        "3xl": "36px",
       },
     },
   },
